@@ -30,7 +30,7 @@ resnet预训练权重百度网盘地址：[提取码vs9n](https://pan.baidu.com/
 landslide_train.txt文件每一行记录了图片的相对路径，以及标识框的坐标，类别（本例中只有一个类就是滑坡，数值位0）
 运行train.py进行训练
 训练过程中每一次迭代生成的权重文件会自动保存到logs文件夹下，这些权重文件就是训练出来的模型。理论上迭代次数最多的模型性能越好
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201219194936912.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDE4MDIzNg==,size_16,color_FFFFFF,t_70#pic_center)
+<img src="https://img-blog.csdnimg.cn/20201219194936912.jpg" width="50%" height="50%">
 
 # 数据集
 数据集百度网盘地址：[提取码mnd6](https://pan.baidu.com/s/1950sOcFfDFU6UWz-Dsm_7Q)
