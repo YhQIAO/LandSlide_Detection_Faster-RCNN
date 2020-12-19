@@ -18,7 +18,7 @@ class FRCNN(object):
     }
 .....
 ```
-model_path表示你选择的权重文件的路径(默认已经放了一个)
+model_path表示你选择的权重文件的路径，这是一个训练好的[提取码：f7ww](https://pan.baidu.com/s/1hySf2CvRLs0CdFM4b8DgLQ)，下载好后放到logs文件夹下
 运行predict.py，输入文件路径即可进行测试
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201219194438964.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDE4MDIzNg==,size_16,color_FFFFFF,t_70#pic_center)
