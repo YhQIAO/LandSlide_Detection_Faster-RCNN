@@ -1,0 +1,96 @@
+./LandSlideDataSet/images/10_1.tif 47,28,1073,1346,0
+./LandSlideDataSet/images/10_2.tif 256,54,690,917,0
+./LandSlideDataSet/images/10_3.tif 158,69,510,597,0
+./LandSlideDataSet/images/10_4.tif 238,418,458,589,0 334,195,548,353,0
+./LandSlideDataSet/images/10_5.tif 232,164,420,560,0
+./LandSlideDataSet/images/11_1.tif 205,97,270,446,0 294,194,423,452,0
+./LandSlideDataSet/images/11_2.tif 116,111,490,628,0
+./LandSlideDataSet/images/11_3.tif 201,8,813,886,0
+./LandSlideDataSet/images/11_4.tif 184,2,437,800,0
+./LandSlideDataSet/images/11_5.tif 95,126,482,687,0
+./LandSlideDataSet/images/12_1.tif 323,71,695,978,0
+./LandSlideDataSet/images/12_2.tif 26,127,762,621,0
+./LandSlideDataSet/images/12_3.tif 3,310,491,606,0
+./LandSlideDataSet/images/12_4.tif 96,64,516,579,0
+./LandSlideDataSet/images/12_5.tif 352,459,769,662,0 9,118,538,451,0
+./LandSlideDataSet/images/13_1.tif 184,118,722,663,0
+./LandSlideDataSet/images/13_2.tif 1,116,108,392,0 274,148,370,187,0
+./LandSlideDataSet/images/13_3.tif 106,176,713,379,0
+./LandSlideDataSet/images/13_4.tif 230,220,351,331,0
+./LandSlideDataSet/images/13_5.tif 130,155,282,254,0
+./LandSlideDataSet/images/14_1.tif 234,103,371,275,0 370,279,485,503,0
+./LandSlideDataSet/images/14_2.tif 1,1,413,149,0
+./LandSlideDataSet/images/14_3.tif 198,220,416,472,0
+./LandSlideDataSet/images/14_4.tif 199,147,350,376,0
+./LandSlideDataSet/images/14_5.tif 217,127,286,378,0
+./LandSlideDataSet/images/15_1.tif 749,345,970,749,0 431,586,730,803,0 17,108,382,541,0 453,119,704,397,0
+./LandSlideDataSet/images/15_2.tif 50,116,884,836,0
+./LandSlideDataSet/images/15_3.tif 79,131,680,506,0
+./LandSlideDataSet/images/15_4.tif 142,158,490,430,0
+./LandSlideDataSet/images/15_5.tif 101,149,268,475,0 318,7,528,505,0 564,54,685,540,0
+./LandSlideDataSet/images/16_1.tif 259,259,661,509,0
+./LandSlideDataSet/images/16_3.tif 99,41,878,939,0
+./LandSlideDataSet/images/16_4.tif 293,245,404,435,0
+./LandSlideDataSet/images/16_5.tif 151,92,567,477,0
+./LandSlideDataSet/images/17_1.tif 148,175,697,496,0
+./LandSlideDataSet/images/17_2.tif 60,76,860,863,0
+./LandSlideDataSet/images/17_3.tif 24,3,227,389,0 230,72,606,583,0
+./LandSlideDataSet/images/17_4.tif 1,1,594,591,0
+./LandSlideDataSet/images/17_5.tif 222,132,330,317,0
+./LandSlideDataSet/images/18_1.tif 150,149,270,276,0
+./LandSlideDataSet/images/18_3.tif 122,130,328,525,0 344,326,592,418,0
+./LandSlideDataSet/images/18_4.tif 131,300,416,593,0
+./LandSlideDataSet/images/18_5.tif 127,52,742,755,0
+./LandSlideDataSet/images/19_1.tif 173,214,239,297,0 363,206,439,427,0
+./LandSlideDataSet/images/19_2.tif 80,164,833,477,0
+./LandSlideDataSet/images/19_3.tif 58,84,584,551,0
+./LandSlideDataSet/images/19_4.tif 228,176,621,407,0
+./LandSlideDataSet/images/19_5.tif 14,53,956,767,0
+./LandSlideDataSet/images/1_1.tif 32,139,743,524,0
+./LandSlideDataSet/images/1_3.tif 240,212,411,359,0
+./LandSlideDataSet/images/1_4.tif 226,137,500,400,0
+./LandSlideDataSet/images/1_5.tif 176,270,307,391,0 497,171,595,270,0
+./LandSlideDataSet/images/20_1.tif 4,111,503,460,0
+./LandSlideDataSet/images/20_2.tif 110,212,400,298,0 339,1,489,138,0
+./LandSlideDataSet/images/20_3.tif 168,57,569,469,0
+./LandSlideDataSet/images/20_4.tif 149,219,518,338,0
+./LandSlideDataSet/images/20_5.tif 115,114,639,575,0
+./LandSlideDataSet/images/2_1.tif 214,173,492,468,0
+./LandSlideDataSet/images/2_2.tif 233,143,359,515,0
+./LandSlideDataSet/images/2_4.tif 141,165,521,479,0 391,444,673,513,0
+./LandSlideDataSet/images/2_5.tif 185,225,803,483,0
+./LandSlideDataSet/images/3_1.tif 167,131,370,332,0
+./LandSlideDataSet/images/3_2.tif 232,235,468,535,0
+./LandSlideDataSet/images/3_3.tif 228,190,385,311,0
+./LandSlideDataSet/images/3_4.tif 227,91,434,447,0
+./LandSlideDataSet/images/3_5.tif 249,108,438,331,0 443,281,682,754,0
+./LandSlideDataSet/images/4_1.tif 280,246,396,406,0
+./LandSlideDataSet/images/4_2.tif 235,98,506,373,0
+./LandSlideDataSet/images/4_3.tif 118,134,935,908,0
+./LandSlideDataSet/images/4_4.tif 127,153,534,427,0
+./LandSlideDataSet/images/4_5.tif 107,205,272,476,0 419,14,628,183,0
+./LandSlideDataSet/images/5_1.tif 285,58,637,770,0
+./LandSlideDataSet/images/5_2.tif 189,151,462,563,0
+./LandSlideDataSet/images/5_3.tif 227,113,366,423,0
+./LandSlideDataSet/images/5_4.tif 236,113,342,328,0
+./LandSlideDataSet/images/5_5.tif 204,154,476,489,0
+./LandSlideDataSet/images/6_1.tif 256,164,461,512,0
+./LandSlideDataSet/images/6_2.tif 213,75,473,437,0
+./LandSlideDataSet/images/6_3.tif 303,41,546,729,0
+./LandSlideDataSet/images/6_4.tif 265,255,569,456,0
+./LandSlideDataSet/images/6_5.tif 258,126,577,869,0
+./LandSlideDataSet/images/7_1.tif 115,233,739,437,0
+./LandSlideDataSet/images/7_2.tif 224,201,322,321,0
+./LandSlideDataSet/images/7_3.tif 413,107,729,586,0 143,523,362,800,0
+./LandSlideDataSet/images/7_4.tif 196,177,638,711,0
+./LandSlideDataSet/images/7_5.tif 194,84,1203,1272,0
+./LandSlideDataSet/images/8_1.tif 211,117,589,731,0
+./LandSlideDataSet/images/8_2.tif 368,327,741,566,0
+./LandSlideDataSet/images/8_3.tif 205,97,643,636,0
+./LandSlideDataSet/images/8_4.tif 234,53,537,638,0
+./LandSlideDataSet/images/8_5.tif 202,200,709,891,0
+./LandSlideDataSet/images/9_1.tif 153,300,651,844,0
+./LandSlideDataSet/images/9_2.tif 174,155,605,785,0
+./LandSlideDataSet/images/9_3.tif 11,5,129,245,0 80,254,598,661,0
+./LandSlideDataSet/images/9_4.tif 174,69,764,915,0
+./LandSlideDataSet/images/9_5.tif 336,79,819,391,0

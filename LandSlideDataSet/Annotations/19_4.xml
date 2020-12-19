@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>19_4.tif</filename>
+	<path>C:\Users\julyfire\Desktop\遥感影像地学解译\faster-rcnn-pytorch-master\LandSlideDataSet\photo\19_4.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>579</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>176</ymin>
+			<xmax>621</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

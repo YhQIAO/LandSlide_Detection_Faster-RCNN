@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>12_2.tif</filename>
+	<path>C:\Users\julyfire\Desktop\遥感影像地学解译\faster-rcnn-pytorch-master\LandSlideDataSet\photo\12_2.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>654</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>127</ymin>
+			<xmax>762</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>
